@@ -62,3 +62,8 @@ Start the server
 
 ![App Screenshot](Screenshot.png)
 
+
+## Appendix
+
+Uncomment the SQLite code in **Main.py** as it is required to populate the Database
+
